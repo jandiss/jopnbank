@@ -1,2 +1,3 @@
 # jopnbank
-Open Banking 
+Open Banking app
+
